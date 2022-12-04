@@ -7,7 +7,7 @@
 // AllNaturalNumber(N);
 //  void AllNaturalNumber (int N)
 // {
-//     if (N > 0) // условие окончание рекурсии
+//     if (N > 0) 
 //     {
 //         AllNaturalNumber(N - 1); 
         

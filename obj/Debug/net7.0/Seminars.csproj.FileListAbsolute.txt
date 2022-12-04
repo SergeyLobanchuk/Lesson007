@@ -1,0 +1,15 @@
+C:\Users\Сергей\Desktop\New\Seminars\bin\Debug\net7.0\Seminars.exe
+C:\Users\Сергей\Desktop\New\Seminars\bin\Debug\net7.0\Seminars.deps.json
+C:\Users\Сергей\Desktop\New\Seminars\bin\Debug\net7.0\Seminars.runtimeconfig.json
+C:\Users\Сергей\Desktop\New\Seminars\bin\Debug\net7.0\Seminars.dll
+C:\Users\Сергей\Desktop\New\Seminars\bin\Debug\net7.0\Seminars.pdb
+C:\Users\Сергей\Desktop\New\Seminars\obj\Debug\net7.0\Seminars.csproj.AssemblyReference.cache
+C:\Users\Сергей\Desktop\New\Seminars\obj\Debug\net7.0\Seminars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Сергей\Desktop\New\Seminars\obj\Debug\net7.0\Seminars.AssemblyInfoInputs.cache
+C:\Users\Сергей\Desktop\New\Seminars\obj\Debug\net7.0\Seminars.AssemblyInfo.cs
+C:\Users\Сергей\Desktop\New\Seminars\obj\Debug\net7.0\Seminars.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\Desktop\New\Seminars\obj\Debug\net7.0\Seminars.dll
+C:\Users\Сергей\Desktop\New\Seminars\obj\Debug\net7.0\refint\Seminars.dll
+C:\Users\Сергей\Desktop\New\Seminars\obj\Debug\net7.0\Seminars.pdb
+C:\Users\Сергей\Desktop\New\Seminars\obj\Debug\net7.0\Seminars.genruntimeconfig.cache
+C:\Users\Сергей\Desktop\New\Seminars\obj\Debug\net7.0\ref\Seminars.dll
